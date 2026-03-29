@@ -42,3 +42,7 @@ pip install -r requirements.txt
 streamlit run app.py
 📝 Not / Note
 Bu terminal eğitim ve kişisel takip amaçlıdır, yatırım tavsiyesi içermez. This terminal is for educational and personal tracking purposes only, not investment advice.
+
+----communication***
+https://www.linkedin.com/in/dogus-sen-b0bba123b
+sendoguscan@gmail.com
