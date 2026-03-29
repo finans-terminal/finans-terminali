@@ -45,4 +45,6 @@ Bu terminal eğitim ve kişisel takip amaçlıdır, yatırım tavsiyesi içermez
 
 ----communication***
 https://www.linkedin.com/in/dogus-sen-b0bba123b
+
+
 sendoguscan@gmail.com
